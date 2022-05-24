@@ -10,5 +10,5 @@ What does the *growth mindset* means to me? It is an positive mindset approach t
 2. If you feel like quitting, don't give up try a different approach
 3. If you are uncomfortable with criticsms, it says learn from it instead
 
-Here is my [GitHub Page](https://github.com/normanmatthewjr)/).
+Here is my [GitHub Page](https://github.com/normanmatthewjr).
 
