@@ -11,7 +11,7 @@ What does the *growth mindset* means to me? It is an positive mindset approach t
 3. If you are uncomfortable with criticsms, it says learn from it instead
 
 ### Read: 03 - Revisions and the Cloud
-My [Reading Notes](https://github.com/normanmatthewjr/reading-notes/)
+My [Reading Notes](https://github.com/normanmatthewjr/reading-notes/Read: 03 - Revisions and the Cloud.md)
 
 Here is my [GitHub Page](https://github.com/normanmatthewjr).
 
