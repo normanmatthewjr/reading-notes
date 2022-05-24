@@ -1,6 +1,6 @@
 # My Reading Notes Journal!!!!
 
-Hi name is **Norman Matthew, Jr** and I'm excited to take the Code Fellows software development course.
+Hi my name is **Norman Matthew, Jr** and I'm excited to take the Code Fellows software development course.
 
 ### Growth Mindset
 
