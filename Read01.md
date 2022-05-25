@@ -4,6 +4,6 @@ What is **Markdown** language? It is a simpler form of writing code using symbol
 
 ### Examples of Markdown (md)
 
-1. **md** uses '#' instead of <h1></h1> in _HTML_
-2. Italize uses the _underline symbol(_)_ instead of <em></em>
-3. Bold uses the **Asterisk** infront of words instead of <strong></strong>
+1. **md** uses **# Symbol** tranformed into **h1** in _HTML_
+2. Italize uses the _underline symbol(_)_ instead of **em**
+3. Bold uses the **Asterisk** symbol instead of **strong**
