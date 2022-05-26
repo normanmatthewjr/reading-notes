@@ -1,4 +1,4 @@
-# Git Intro
+# Read: 03 - Revisions and the Cloud
 
 What is Git? Git is a _Distributed Version Control System_ (**DVCS**) file storage system that captures every _commit_ or instances saved. **GitHub** is the online part of _Git_. Multiple programmers can work on a project at the same time on _Git_.
 
