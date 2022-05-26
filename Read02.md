@@ -5,19 +5,26 @@ your computer, or you access online through your web browser, that allows you to
 
 ## Choosing  A Text Editor
 
- - **Code Completion** 
+ 1. **Code Completion** 
     - gives suggestions when you start typing
     - saves you time
     - includes closing tags  
 
- - **Syntax highlighting**
+ 2. **Syntax highlighting**
     - colorizes text to make more noticeable
     - highlighted errors make easier to find
 
- - **Theme varieties** 
+ 3. **Theme varieties** 
     - customizable background and texts
     - reduce eye strain and less fatigue
 
- - **Numerous selection of extensions** 
+ 4. **Numerous selection of extensions** 
     - allows you to add features to editor
     - adds functionality as needed
+
+### Cheat Sheet Links
+- [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+- [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+- [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+Here is my [GitHub Page](https://github.com/normanmatthewjr/reading-notes)
