@@ -3,7 +3,7 @@
 What is a **Text Editor**? According to the article _"Choosing A Text Editor"_ by the Older Coder, it is a "A text editor is a piece of software that you download and install on
 your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site."
 
-## Choosing  A Text Editor
+### Choosing  A Text Editor
 
  1. **Code Completion** 
     - gives suggestions when you start typing
@@ -27,4 +27,4 @@ your computer, or you access online through your web browser, that allows you to
 - [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 - [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
-Here is my [GitHub Page](https://github.com/normanmatthewjr/reading-notes)
+[Home](https://github.com/normanmatthewjr/reading-notes)

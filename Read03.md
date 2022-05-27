@@ -20,4 +20,4 @@ With multiple programmers, previous systems called _Control Version Systems_ (**
 - _git commit -a_ (commit all changes)
 - _git push origin master_ (push changes for git on computer to github)
 
-Here is my [GitHub Page](https://github.com/normanmatthewjr/reading-notes)
+[Home](https://github.com/normanmatthewjr/reading-notes)
