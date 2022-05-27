@@ -24,15 +24,15 @@ What is _HTML_?  > HTML (HyperText Markup Language) is the code that is used to 
 
 ### Anatomy of HTML
 
-1. Opening tags ie '<p> <h1> <html> <body> etc'
-2. Closing tags ie '<p/> <h1/> <html/> <body/> etc'
+1. Opening tags ie `<p> <h1> <html> <body>` etc
+2. Closing tags ie `<p/> <h1/> <html/> <body/>` etc
 3. The Content - Whats between the opening and closing tags
 4. The Element - The opening tag, the closing tag, and the content together
 
 ### Semantics
 
 What is Semantics? Semantics refers to the meaning of a piece of code. 
-- HTML tag '<h1>' means "a top level heading on your page."
+- HTML tag `<h1>` means "a top level heading on your page."
 
 ### Cheat Sheets Links
 - [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
