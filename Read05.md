@@ -8,20 +8,20 @@ What is CSS syntax? It defines the rules by "specifying the groups of styles tha
 
 Here is an example of how css syntax looks. I created a **styles.css** files then use it to stylize my **index.html** to appear how I want it to look.
 
-'h1 {
-'    background-color: rgb(41, 41, 129);
-'    border-style:inset;
-'    color:blanchedalmond;
-'    border: 0px;
-'    margin: 0px;
-'    padding: 20px;
-'    }
-'body {
-'    background-color: rgb(141, 241, 241);
-'    border: 0px;
-'    margin: 0px;
-'    padding: 0px;
-'}
+'h1 {                                       '
+'    background-color: rgb(41, 41, 129);    '
+'    border-style:inset;                    '
+'    color:blanchedalmond;                  '            
+'    border: 0px;                           '    
+'    margin: 0px;                           '
+'    padding: 20px;                         '
+'    }'
+'body {'
+'    background-color: rgb(141, 241, 241);'
+'    border: 0px;'
+'    margin: 0px;'
+'    padding: 0px;'
+'}'
 '
 Now all '<h1>' tags and the '<body>' tag inside of the *html* file will have these properties.
 
