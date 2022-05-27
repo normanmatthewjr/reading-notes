@@ -11,7 +11,6 @@ What does the *growth mindset* means to me? It is an positive mindset approach t
 3. If you are uncomfortable with criticsms, it says learn from it instead
 
 ### Reading Notes
-- [Home](README.md)
 - [Reading Notes 01](Read01.md)
 - [Reading Notes 02](Read02.md)
 - [Reading Notes 03](Read03.md)
