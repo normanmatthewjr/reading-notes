@@ -30,4 +30,3 @@ Now all '<h1>' tags and the '<body>' tag inside of the *html* file will have the
 - [How To Add CSS](https://www.w3schools.com/css/css_howto.asp)
 - [CSS color Property](https://www.w3schools.com/cssref/pr_text_color.asp)
 
-[Home](https://github.com/normanmatthewjr/reading-notes)

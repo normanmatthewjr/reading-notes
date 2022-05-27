@@ -27,4 +27,3 @@ your computer, or you access online through your web browser, that allows you to
 - [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 - [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
-[Home](https://github.com/normanmatthewjr/reading-notes)

@@ -38,4 +38,3 @@ What is Semantics? Semantics refers to the meaning of a piece of code.
 - [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-[Home](https://github.com/normanmatthewjr/reading-notes)

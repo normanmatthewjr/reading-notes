@@ -21,5 +21,5 @@ What does the *growth mindset* means to me? It is an positive mindset approach t
 - [Reading Notes 07](Read07.md)
 - [Reading Notes 08](Read08.md)
 
-Here is my [GitHub Page](https://github.com/normanmatthewjr/reading-notes)
+Here is my [GitHub Page](https://github.com/normanmatthewjr)
 

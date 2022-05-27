@@ -11,4 +11,3 @@ What is **Markdown** language? It is a simpler form of writing code using symbol
 - The **dash** would be used instead of **ul li** to create a unordered list
 - A **number** follow by a period will start the **ol li** or ordered list
 - There is no need for the **br** as you'll just skip a line in **md**
-[Home](https://github.com/normanmatthewjr/reading-notes)
