@@ -8,8 +8,8 @@ It's programming language that can make your website more dynamic. **HTML** and 
 
 ### Input Output in plain JavaScript
 
-JavaScript (JS) enables a website to receive an input and return an output. The HTML example below shows how JS code looks inside of a `<body>` element. This code and Image from Code Maven website, will allow a user to *input* their first and last names and will produce an *output*;
-a greeting followed by their name.
+JavaScript (JS) enables a website to receive an input and return an output. The HTML example below shows how JS code looks inside of a `<body>` element. This code, from the Code Maven website, allows a user to *input* their first and last names and will produce an *output*;
+a "Hello" greeting followed by their name.
 
 ```
 <body>
@@ -36,5 +36,4 @@ document.getElementById('say').addEventListener('click', say_hi);
  
 </body>
 ```
-![]("https://code-maven.com/img/input_form.png")
 
