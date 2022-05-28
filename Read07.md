@@ -39,7 +39,7 @@ The Comparison Operators does compare both operands. For example, **==** means *
 
 
 
-####Cheat Sheet Links
+#### Cheat Sheet Links
 
 [Functions](https://www.w3schools.com/js/js_functions.asp)
 
