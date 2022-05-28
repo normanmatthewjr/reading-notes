@@ -2,7 +2,7 @@
 
 ### What is CSS?
 
-_Cascading Style Sheets_ or **CSS** is a tool that allows you stylize your website. HTML can have CSS embedded inside it, but it makes complicated and hard to read. By creating file with the **.css** extension, you can call it in your *HTML* and it would work the same. You write the code in a CSS syntax.
+_Cascading Style Sheets_ or **CSS** is a tool that allows you to stylize your website. HTML can have CSS embedded inside it, but makes it look complicated and hard to read. By creating file with the **.css** extension, you can call it in your *HTML* and it will work the same. You write the code in a CSS syntax.
 
 What is CSS syntax? It defines the rules by "specifying the groups of styles that should be applied to particular elements or group of element."
 
@@ -25,7 +25,7 @@ body {
 ```
 Now all `<h1>` tags and the `<body>` tag inside of the *html* file will have these properties.
 
-### Cheat Sheet Links
+#### Cheat Sheet Links
 
 - [How To Add CSS](https://www.w3schools.com/css/css_howto.asp)
 - [CSS color Property](https://www.w3schools.com/cssref/pr_text_color.asp)

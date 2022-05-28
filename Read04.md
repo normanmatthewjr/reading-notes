@@ -34,7 +34,7 @@ What is _HTML_?  > HTML (HyperText Markup Language) is the code that is used to 
 What is Semantics? Semantics refers to the meaning of a piece of code. 
 - HTML tag `<h1>` means "a top level heading on your page."
 
-### Cheat Sheets Links
+#### Cheat Sheets Links
 - [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 

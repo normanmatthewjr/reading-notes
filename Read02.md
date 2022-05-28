@@ -22,7 +22,7 @@ your computer, or you access online through your web browser, that allows you to
     - allows you to add features to editor
     - adds functionality as needed
 
-### Cheat Sheet Links
+#### Cheat Sheet Links
 - [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 - [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 - [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
